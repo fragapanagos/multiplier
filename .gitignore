@@ -5,3 +5,7 @@
 # Logs #
 ########
 *.swp
+
+# Executable #
+##############
+mult
